@@ -1,0 +1,12 @@
+body {
+  background: #f8fafc;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.navbar {
+  height: 60px;
+}
+
+.card {
+  border-radius: 12px;
+}
